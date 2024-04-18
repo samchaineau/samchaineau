@@ -1,6 +1,8 @@
 ## My background 👨🏼‍💻
  I am a french data scientist specialised in Deep-Learning, and more specifically in sequence analysis (text, time series, trajectories...). I am a creative and curious person with a strong desire to exchange, collaborate and build imapctful solutions.
 
+ I ahve a deep interest in NKP applied for economics and finance.
+
 ## My projects 📒
 ### [Fast LLM inference with token merging](https://github.com/samchaineau/llm_slerp_generation) 🤙
 - Proposed a framework to speed up LLM inference using token merging
@@ -20,6 +22,8 @@
 - FIne-tuned a Mistral 7B v0.2 Instruct model on it, showcasing high relevancy in medical assistance settings
 
 ### [EconoBert and Econo-Sentence](https://huggingface.co/collections/samchain/nlp-for-economics-6620f064bfe7fdb2c5e12459) 📈
-- Created EconoBert and econosentence, two encoder models specific to the domain of economics
+- Created EconoBert, a Bert designed for applications in the domain of economics
+- Created EconoSentence, a sentence-transformers designed to produce document embeddings for applications in economics
+- Built a dataset of speeches from various central banks scrapped on the BIS website
 
 Feel free to contact me on LinkedIn or mail
