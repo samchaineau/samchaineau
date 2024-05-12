@@ -10,16 +10,16 @@
 - Tested on Mistral 7B Instruct v0.2 with strongly encouraging results
 
 ### [QB-GPT : A GPT for football plays](https://github.com/samchaineau/QB-GPT) 🏈
-- Trained a Decoder-only model on prediciting NFL teams trajectories at a 0.3 second frame rate
+- Trained a Decoder-only model on predicting NFL teams trajectories at a 0.3 second frame rate
 - Able to generate various plays which can be used to forecast and/or simulate plays outcomes
 
 ### [StratFormer : A BERT for football plays](https://github.com/samchaineau/StratFormer) 🏈
-- Designed BERT-like model on NFL player trajectories to scout NFL playbooks
+- Designed a BERT-like model on NFL player trajectories to scout NFL playbooks
 - Strong results and possibility to summarize thousands of plays in a dozen of minutes
 
 ### [NuvoChat](https://huggingface.co/collections/nuvocare/nuvochat-65eeb989a735404e87ba733e) 🏥
 - Built a medical database using web-scraping on the MSD Manual
-- FIne-tuned a Mistral 7B v0.2 Instruct model on it, showcasing high relevancy in medical assistance settings
+- Fine-tuned a Mistral 7B v0.2 Instruct model on it, showcasing high relevancy in medical assistance settings
 
 ### [EconoBert and Econo-Sentence](https://huggingface.co/collections/samchain/nlp-for-economics-6620f064bfe7fdb2c5e12459) 📈
 - Created EconoBert, a Bert designed for applications in the domain of economics
