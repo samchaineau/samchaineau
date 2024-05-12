@@ -6,7 +6,7 @@
 ## My projects 📒
 ### [Fast LLM inference with token merging](https://github.com/samchaineau/llm_slerp_generation) 🤙
 - Proposed a framework to speed up LLM inference using token merging
-- Using SLERP at a given layer indice in order to reduce the sequenc elength by a factor up to 2
+- Using SLERP at a given layer indice in order to reduce the sequence length by a factor up to 2
 - Tested on Mistral 7B Instruct v0.2 with strongly encouraging results
 
 ### [QB-GPT : A GPT for football plays](https://github.com/samchaineau/QB-GPT) 🏈
