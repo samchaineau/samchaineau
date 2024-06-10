@@ -1,8 +1,6 @@
 ## My background 👨🏼‍💻
  I am a french data scientist specialised in Deep-Learning, and more specifically in sequence analysis (text, time series, trajectories...). I am a creative and curious person with a strong desire to exchange, collaborate and build imapctful solutions.
 
- I have a deep interest in NLP for economics and finance.
-
 ## My projects 📒
 ### [Fast LLM inference with token merging](https://github.com/samchaineau/llm_slerp_generation) 🤙
 - Proposed a framework to speed up LLM inference using token merging
