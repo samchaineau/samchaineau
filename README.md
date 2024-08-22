@@ -7,10 +7,6 @@
 - Using SLERP at a given layer indice in order to reduce the sequence length by a factor up to 2
 - Tested on Mistral 7B Instruct v0.2 with strongly encouraging results
 
-### [QB-GPT : A GPT for football plays](https://github.com/samchaineau/QB-GPT) 🏈
-- Trained a Decoder-only model on predicting NFL teams trajectories at a 0.3 second frame rate
-- Able to generate various plays which can be used to forecast and/or simulate plays outcomes
-
 ### [StratFormer : A BERT for football plays](https://github.com/samchaineau/StratFormer) 🏈
 - Designed a BERT-like model on NFL player trajectories to scout NFL playbooks
 - Strong results and possibility to summarize thousands of plays in a dozen of minutes
